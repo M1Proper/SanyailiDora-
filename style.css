@@ -1,0 +1,57 @@
+div{
+
+    background-image:url(https://wp-s.ru/wallpapers/9/15/424076369596205/letnyaya-lesnaya-opushka-na-vosxode.jpg);
+
+    background-repeat: no-repeat;
+
+    width:calc(100%);
+
+    height: 1000px;;
+
+
+
+}
+
+h1{
+
+   text-align: center;
+
+   color: white;
+
+   font-size: 6em;
+
+}
+
+td{
+
+    text-align: center;
+
+    padding: 100px;
+
+    width:calc(100%);
+
+    color: white;
+
+    font-size: 5em;
+
+}
+
+a{
+
+    color:inherit;
+
+    text-align: center;
+
+}
+
+header{
+
+    background-color:blanchedalmond ;
+
+    color: black;
+
+    padding: 30px 50px;
+
+    font-size: 4em;
+
+}
